@@ -51,7 +51,6 @@
 
 ## 📫 Как со мной связаться:
 
-- [Email](alexsandra.akhundova.w@mail.ru)
 - [Вконтакте](https://vk.com/sunnygirlhere)
 
 ## 😄 Мелочи обо мне
