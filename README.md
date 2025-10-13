@@ -1,5 +1,5 @@
 
-# Привет, меня зовут Александра! 👋
+# Привет, меня зовут Александра!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Я+Fullstack+разработчик;Я+Fullstack+разработчик)](https://git.io/typing-svg)
 
