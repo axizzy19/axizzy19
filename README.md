@@ -1,7 +1,7 @@
 
 # Привет, меня зовут Александра!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Я+Fullstack+разработчик;Я+Fullstack+разработчик+и+ML-инженер)](https://git.io/typing-svg)
+## Я Fullstack разработчик и ML-инженер
 
 Разработчик | Аналитик | Инженер | Спортсменка | Путешественница
 
